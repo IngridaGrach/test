@@ -6,6 +6,7 @@ public class Main {
 
         int a = 4;
         int b = 5;
+        int c = 5;
 
         int resultasdasfsd = a+b;
 
